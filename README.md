@@ -1,3 +1,11 @@
+Torch exercises
+=============
+
+This is Torch(Lua) version of [100 numpy exercises](http://www.loria.fr/~rougier/teaching/numpy.100/)
+
+Latest version of 100 numpy excercises are available at [this repository](https://github.com/rougier/numpy-100).
+
+
 
 Import the torch package under the name th (★☆☆☆☆)
 
